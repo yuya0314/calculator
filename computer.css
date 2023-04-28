@@ -1,0 +1,7 @@
+#result{color:white; 
+        background-color: 
+        black;width:135px; 
+        height:30px; display: 
+        flex; align-items:center; justify-content:end; }
+button{height: 30px; width:30px;margin-top: 5px; text-align: center;}
+.last button{height:30px; width:66px;}
